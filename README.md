@@ -5,7 +5,7 @@ This repo contains an analysis of 3000 employees across multiple U.S States
 PC: CBIA, 2019. Aging Workforce.
 
 ## Introduction
-This report presents a comprehensive analysis of workforce demographics and compensation patterns across a multi-state employee dataset comprising 3,000 individuals. The objective of this analysis is to identify structural workforce trends, evaluate compensation distribution, and uncover actionable insights to inform strategic workforce planning and compensation decisions.
+This report presents a comprehensive analysis of workforce demographics and compensation patterns across a multi-state employee dataset comprising 3,000 individuals. The goal of this analysis is to identify structural workforce trends, evaluate compensation distribution, and uncover actionable insights to inform strategic workforce planning and compensation decisions.
 
 ## Project Objectives
 	
